@@ -8,3 +8,7 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
+14. Shell Script:
+#!/bin/bash
+echo "Hello, Shell Scripting!"
+
