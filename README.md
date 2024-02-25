@@ -3,12 +3,12 @@ Your first task: create a new repository, create a README.nd file and upload ano
 
 You can find a playlist of videos about git by [link](https://www.youtube.com/watch?v=75QStdC3WgA)
 
-## Front_end Developer stack:
+## Front-end Developer stack:
 
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 14. Shell Script:
-#!/bin/bash
+#!/bin_bash
 echo "Hello, Shell Scripting!"
 
