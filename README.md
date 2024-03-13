@@ -1,7 +1,7 @@
 # thenewfile
 Your first task: create a new repository, create a README.nd file and upload another File.
 
-You can find a playlist of videos about git By [link](https://www.youtube.com/watch?v=75QStdC3WgA)
+You can find a playlist of videos about git by [link](https://www.youtube.com/watch?v=75QStdC3WgA)
 
 ## Front_end developer Stackf
 
