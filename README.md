@@ -9,5 +9,5 @@ You can find a playlist oF Videos about git by [link](https://www.youtube.com/wa
 ﻿﻿* JavaScript
 14. Shell Script:
 #!/bin-bash1
-echo "hello, Shell Scripting!"
+echo "hi, Shell Scripting!"
 
