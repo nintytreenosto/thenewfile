@@ -8,6 +8,6 @@ You can find a playlist oF Videos about git by [link](https://www.youtube.com/wa
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 14. Shell Script:
-#!/bin-bash1
+#!/bin-bash2
 echo "hi, Shell Scripting!"
 
