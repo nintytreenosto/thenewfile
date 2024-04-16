@@ -7,7 +7,7 @@ You can find a playlist oF Videos about git by [link](https://www.youtube.com/wa
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
-14. Shell Script:
+5. Shell Script:
 #!/bin-bash3
 echo "hello, Shell Scripting!"
 
