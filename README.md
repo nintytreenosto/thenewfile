@@ -9,5 +9,5 @@ static void main(17)
 ﻿﻿* JavaScript
 5. Shell Script:
 #!/bin-bash5
-echo "hello, Shell Scripting!"
+echo "hi, Shell Scripting!"
 
