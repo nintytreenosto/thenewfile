@@ -3,7 +3,7 @@ Your first task: create a new repository, create a README.nd File and upload ano
 
 You can find a playlist oF Videos about git by [link](https://www.youtube.com/watch?v=75QStdC3WgA)q
 ## Front_end developer Stackf.
-static void main(08)
+static void main(088)
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
