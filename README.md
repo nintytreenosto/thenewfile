@@ -8,6 +8,6 @@ static void main(05)
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 5. Shell Script:
-#!/bin-bash51
+#!/bin-bash52
 echo "hi13, Shell Scripting!"01
 
