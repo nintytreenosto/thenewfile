@@ -10,4 +10,4 @@ static void main(05)
 5. Shell Script:
 #!/bin-bash521
 echo "hi13, Shell Scripting!"04
-54
+43
