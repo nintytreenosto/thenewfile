@@ -9,5 +9,5 @@ static void main(05)
 ﻿﻿* JavaScript
 5. Shell Script:
 #!/bin-bash521
-echo "hi13, Shell Scripting!"04aw
+echo "hi13, Shell Scripting!"024aw
 43
