@@ -9,4 +9,4 @@ static void main(05)
 ﻿﻿* JavaScript
 5. Shell Script:
 #!/bin-bash521
-echo "hi13, Shell Scripting!"08
+echo "hi13, Shell Scripting!"08tg5
